@@ -24,6 +24,9 @@
 - [ ] Uso do solo
 - [ ] Outros
 
+## Imagem aérea recomendada
+<!--- Qual a melhor imagem a ser utilizada no mapeamento, exemplo: Maxar Premium. -->
+
 ## Instruções de mapeamento
 <!--- Instruções do que deve ser mapeado e como mapear. Se desejar, inclua a tradução para outros idiomas. Veja um bom exemplo em https://tasks.hotosm.org/projects/10472/tasks/  -->
 
