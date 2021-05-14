@@ -17,7 +17,7 @@ Os projetos a serem criados no Tasking Manager devem cumprir alguns requisitos:
 - Garantir que todas as tarefas estarão validadas ao fim do projeto
 - Responder perante a comunidade do OSM pela qualidade dos dados
 
-### Requisitos para os projetos
+### Informações necessárias
 - Descrição e instruções em português e, se possível, em inglês
 - Recomendação de imagem aérea mais adequada
 - Definição das permissões de mapeamento e validação
