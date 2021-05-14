@@ -39,3 +39,7 @@
 
 ## Usuários responsáveis pela validação
 <!--- Liste os nomes de usuários do OSM que serão responsáveis pela validação -->
+
+
+## Outras informações
+<!--- Qualquer informação adicional sobre o projeto -->
