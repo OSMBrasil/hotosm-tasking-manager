@@ -1,15 +1,15 @@
 <!--Nota: Todas as questões são obrigatórias -->
 
 ## *Nome do projeto*
-<!--- Máximo de 130 caracteres, exemplo: Mapeamento de Hidrografia do estado de Sergipe -->
+<!--- Máximo de 130 caracteres, exemplo: Mapeamento de Hidrografia do estado de Sergipe. Se desejar, inclua a tradução para outros idiomas. -->
 
 
 ## Descrição curta
-<!--- descreva em até 1500 caracteres a motivação do projeto  -->
+<!--- descreva em até 1500 caracteres a motivação do projeto. Se desejar, inclua a tradução para outros idiomas. -->
 
 
 ## Descrição
-<!--- Descreva o objetivo do projeto (sem limite de caracteres)  -->
+<!--- Descreva o objetivo do projeto (sem limite de caracteres). Se desejar, inclua a tradução para outros idiomas. -->
 
 
 ## Link para geometria da área do projeto
@@ -25,7 +25,7 @@
 - [ ] Outros
 
 ## Instruções de mapeamento
-<!--- Instruções do que deve ser mapeado e como mapear. Veja um bom exemplo em https://tasks.hotosm.org/projects/10472/tasks/  -->
+<!--- Instruções do que deve ser mapeado e como mapear. Se desejar, inclua a tradução para outros idiomas. Veja um bom exemplo em https://tasks.hotosm.org/projects/10472/tasks/  -->
 
 
 ## Nível de dificuldade de mapeamento
